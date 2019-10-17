@@ -4,7 +4,7 @@ body{
 	padding: 0;
 	font-family: sans-serif;
 	background: url(images/image1.jpg) no-repeat center center fixed;
-	-webkit-background-size: contain;
+	-webkit-background-size: 100% 100%;
         /*-moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
