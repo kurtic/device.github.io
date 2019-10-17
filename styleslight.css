@@ -9,7 +9,7 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 	-webkit-background-size:cover;
-
+	min-height:100%;
 }
 
 
