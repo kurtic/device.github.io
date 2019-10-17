@@ -193,9 +193,6 @@ form.disactivation{
 }
 
 @media (max-width: 991px){
-	body {
-	background-size:100%, 2000px;
-	}
 	
 
 	.menu-toggle {
