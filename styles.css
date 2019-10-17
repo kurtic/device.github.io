@@ -193,7 +193,7 @@ form.disactivation{
 	display: block;
 }
 
-@media (min-width: 300px){
+@media (min-width: 300px max-width: 900px){
 
 	
 
