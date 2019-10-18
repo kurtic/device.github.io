@@ -38,10 +38,10 @@
          				alert('Введіть пароль!');    
    				}
 				});
-			 // enter.addEventListener("contextmenu" , () =>alert('Контекстне меню'));
-			 // enter.addEventListener("click" , () =>alert('Ви ввійшли в свій кабінет'));
-			 // serv.addEventListener("mousemove" , () =>alert('Ви провели мишкою через "Сервіси"'));
-			 // trans.addEventListener("transitionend" , () =>alert('Анімація завершена'));
+			  enter.addEventListener("contextmenu" , () =>alert('Контекстне меню'));
+			  enter.addEventListener("click" , () =>alert('Ви ввійшли в свій кабінет'));
+			  serv.addEventListener("mousemove" , () =>alert('Ви провели мишкою через "Сервіси"'));
+			  trans.addEventListener("transitionend" , () =>alert('Анімація завершена'));
 		})
 
 
